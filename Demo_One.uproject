@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{14F7EDB4-48F9-5ACD-0F9F-488384D91A3B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Demo_One",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
